@@ -1,0 +1,20 @@
+# Mock AWS Access Key ID (matches pattern but invalid)
+AKIAIOSFODNN7EXAMPLE
+
+# Mock AWS Secret Access Key (matches pattern but invalid)
+wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# Mock GitHub Personal Access Token (ghp_ prefix, matches pattern)
+ghp_0123456789abcdef0123456789abcdef012345
+
+
+# Mock Azure DevOps PAT (matches pattern)
+2y5lmmnkmn2mjnrn2mjnrn2mjnrn2mjnrn2mjn
+
+# Mock Generic Private Key (starts with -----BEGIN, matches non-provider)
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7exampleprivatekey
+-----END PRIVATE KEY-----
+
+# Mock NPM Token (matches pattern)
+npm_abc123def456ghi789jkl012mno345pqr678stu901vwx234yz5
